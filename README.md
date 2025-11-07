@@ -1,16 +1,65 @@
-## Hi there 👋
 
-<!--
-**2001118301/2001118301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Mohammed H. Al-Ahdal  
 
-Here are some ideas to get you started:
+🎓 **Computer Science Student** | 🔐 **Cybersecurity Enthusiast** | 💻 **IT Support & Systems Administrator**  
+📍 Alor Setar, Kedah, Malaysia  
+💬 Focused on **Network Security**, **Threat Detection**, **System Administration**, and **Technical Support**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me  
+
+I’m a **Computer Science student** majoring in **Cybersecurity**, with a strong foundation in **IT support, and network troubleshooting**.  
+My passion lies in **protecting digital assets**, **resolving complex technical issues**, and **building secure, reliable systems**.  
+
+I enjoy learning through **CTF challenges**, **hands-on labs**, and **real-world problem-solving**.  
+Currently, I’m developing my expertise in **SOC operations**, **incident response**, and **cloud security**.  
+
+💡 I aim to combine my technical and analytical skills to make a positive impact in cybersecurity and IT infrastructure.  
+
+---
+
+## 🧠 Technical Skills  
+
+### 🛡️ Cybersecurity & Network Security
+- Network defense, vulnerability assessment, threat analysis, and incident response  
+- Intrusion detection, SIEM, firewalls, cryptography, and risk management  
+- Familiar with security compliance frameworks (ISO 27001, NIST)  
+
+### 🧰 IT Support & Systems Administration
+- Troubleshooting hardware/software issues and network connectivity problems  
+- System administration, user management (Active Directory), remote access, and ticketing systems  
+- Automation using **Bash** and **Python** scripting  
+- Providing customer support based on **ITIL best practices**
+
+### 💻 Programming & Development
+- **Languages:** Python, Java, SQL, HTML, CSS, JavaScript  
+- **Use Cases:** Scripting, automation, data handling, and web configuration
+
+### ⚙️ Tools & Platforms
+- **Security Tools:** Wireshark, Nmap, Splunk, Burp Suite, Metasploit, Nessus, OpenVAS, OWASP ZAP  
+- **IT Tools:** VirtualBox, Jira, Zendesk, Google Workspace, VS Code  
+- **Version Control:** Git & GitHub  
+
+### ☁️ Cloud & Virtualization
+- Hands-on experience with **Google Cloud Platform (GCP)** and **AWS**  
+- Knowledge of cloud security, virtualization, and infrastructure fundamentals  
+
+### 🤝 Soft Skills
+- Analytical thinking, problem-solving, teamwork, communication  
+- Time management, independent learning, and technical documentation  
+
+
+---
+
+## 🚀 Career Goals  
+
+- Gain hands-on experience in **SOC operations** and **network defense**  
+- Develop expertise in **cloud and system security**  
+- Continue improving **scripting, automation, and forensic analysis** skills  
+- Pursue **CompTIA Security+**, **Microsoft Certified: Azure Security**, and **Certified SOC Analyst (CSA)**  
+
+
+
+> 💬 *“Security starts with awareness — and grows through continuous learning.”* 🔐
+
