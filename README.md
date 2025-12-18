@@ -42,23 +42,12 @@ Currently, I’m developing my expertise in **SOC operations**, peneration testi
 - **Version Control:** Git & GitHub  
 
 ### ☁️ Cloud & Virtualization
-- Hands-on experience with **Google Cloud Platform (GCP)** and **AWS**  
+- Hands-on experience with **Google Cloud Platform (GCP) 
 - Knowledge of cloud security, virtualization, and infrastructure fundamentals  
 
 ### 🤝 Soft Skills
 - Analytical thinking, problem-solving, teamwork, communication  
 - Time management, independent learning, and technical documentation  
-
-
----
-
-## 🚀 Career Goals  
-
-- Gain hands-on experience in **SOC operations** and **network defense**  
-- Develop expertise in **cloud and system security**  
-- Continue improving **scripting, automation, and forensic analysis** skills  
-- Pursue **CompTIA Security+**, **Microsoft Certified: Azure Security**, and **Certified SOC Analyst (CSA)**  
-
 
 
 > 💬 *“Security starts with awareness — and grows through continuous learning.”* 🔐
