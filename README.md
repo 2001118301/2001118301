@@ -13,7 +13,7 @@ I’m a **Computer Science student** majoring in **Cybersecurity**, with a stron
 My passion lies in **protecting digital assets**, **resolving complex technical issues**, and **building secure, reliable systems**.  
 
 I enjoy learning through **CTF challenges**, **hands-on labs**, and **real-world problem-solving**.  
-Currently, I’m developing my expertise in **SOC operations**, **incident response**, and **cloud security**.  
+Currently, I’m developing my expertise in **SOC operations**, peneration testing **incident response**,network security and **cloud security**.  
 
 💡 I aim to combine my technical and analytical skills to make a positive impact in cybersecurity and IT infrastructure.  
 
